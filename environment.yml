@@ -1,0 +1,7 @@
+name: ecoli_k12_pfam
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - hmmer
