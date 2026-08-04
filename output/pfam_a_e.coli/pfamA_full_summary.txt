@@ -1,0 +1,22 @@
+Pfam-A Full Scan Summary
+========================
+Total proteins: 4300
+Proteins with at least one Pfam match: 4112
+Proteins without Pfam match: 188
+Total protein-Pfam associations: 8407
+Unique Pfam domains detected: 3434
+Proteins with exactly one Pfam: 2136
+Proteins with multiple Pfams: 1976
+Pfams found in a single protein: 2162
+Pfams found in multiple proteins: 1272
+
+Files generated:
+- pfamA_full_results.csv
+- pfamA_proteins_single_pfam.csv
+- pfamA_proteins_multiple_pfams.csv
+- pfamA_pfams_multiple_proteins.csv
+- pfamA_pfams_single_protein.csv
+- pfamA_proteins_no_pfam_match.csv
+- pfamA_full_summary.txt
+- pfamA_full_tblout.txt
+- pfamA_full_alignments.txt

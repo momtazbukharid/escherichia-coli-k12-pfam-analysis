@@ -1,0 +1,29 @@
+102 Essential Pfam hmmscan Summary Report
+=========================================
+Total proteins in FASTA: 4300
+Essential Pfam IDs requested from subset file: 102
+Essential Pfam IDs successfully extracted from Pfam-A.hmm: 102
+Essential Pfam IDs missing from Pfam-A.hmm: 0
+Proteins with at least one Pfam match: 342
+Proteins without any Pfam match: 3958
+Total unique protein-Pfam pairs: 455
+Unique Pfam domains matched: 102
+Proteins matching exactly one Pfam: 264
+Proteins matching multiple Pfams: 78
+Pfam domains matching exactly one protein: 54
+Pfam domains matching multiple proteins: 48
+
+Missing requested Pfams from Pfam-A.hmm:
+None
+
+Files generated:
+- essential102_pfam_full_results.csv
+- essential102_proteins_single_pfam.csv
+- essential102_proteins_multiple_pfams.csv
+- essential102_pfams_multiple_proteins.csv
+- essential102_pfams_single_protein.csv
+- essential102_proteins_no_pfam_match.csv
+- essential102_summary_report.txt
+- Essential102_extracted.hmm
+- essential102_hmmscan_tblout.txt
+- essential102_hmmscan_alignments.txt

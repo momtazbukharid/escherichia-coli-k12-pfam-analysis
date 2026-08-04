@@ -1,0 +1,57 @@
+
+e.coli_k-12 FULL PFAM-A DUF MATCH ANALYSIS
+===================================
+
+Input file:
+- pfamA_full_results.csv
+
+Overall Pfam-A annotation:
+- Total Pfam matches: 8407
+- Unique Pfam domains detected: 3434
+- Proteins with at least one Pfam match: 4112
+
+DUF-specific results:
+- Total DUF matches: 302
+- Unique DUF domains detected: 247
+- Unique DUF names detected: 247
+- Proteins containing at least one DUF: 293
+
+Protein-level DUF distribution:
+- Proteins with exactly one DUF: 285
+- Proteins with multiple DUFs: 8
+
+DUF-level protein distribution:
+- DUFs found in exactly one protein: 214
+- DUFs found in multiple proteins: 33
+
+Top DUF domains by number of proteins:
+pfam_accession pfam_name  num_proteins
+       PF05598    DUF772            12
+       PF02698    DUF218             4
+       PF04074    DUF386             4
+       PF20148   DUF6531             4
+       PF05656    DUF805             3
+       PF05957    DUF883             3
+       PF06174    DUF987             3
+       PF06889   DUF1266             3
+       PF07166   DUF1398             3
+       PF19029  DUF883_C             3
+
+Top proteins by number of DUF domains:
+    protein  num_DUFs
+NP_416306.2         3
+NP_415030.1         2
+NP_415452.1         2
+NP_415784.1         2
+NP_416769.1         2
+NP_417158.4         2
+NP_417569.1         2
+YP_026224.1         2
+NP_414546.1         1
+NP_414552.1         1
+
+Files generated:
+- e.coli_k-12_pfama_all_DUF_matches.csv
+- e.coli_k-12_pfama_DUF_domain_counts.csv
+- e.coli_k-12_pfama_proteins_with_DUFs.csv
+- e.coli_k-12_pfama_DUF_summary.txt

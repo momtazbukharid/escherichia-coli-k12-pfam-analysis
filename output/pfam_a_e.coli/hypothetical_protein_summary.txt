@@ -1,0 +1,19 @@
+
+HYPOTHETICAL PROTEIN SUMMARY
+============================
+
+Input FASTA:
+- protein.faa
+
+Total proteins in FASTA:
+- 4300
+
+Hypothetical / uncharacterized proteins:
+- 107
+
+Non-hypothetical proteins:
+- 4193
+
+Files generated:
+- all_hypothetical_proteins.csv
+- hypothetical_protein_summary.txt

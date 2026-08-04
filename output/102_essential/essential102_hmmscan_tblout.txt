@@ -1,0 +1,468 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+AA_kinase            PF00696.34 NP_414543.1          -            2.3e-48  157.6   1.2     4e-48  156.8   0.1   2.0   2   0   0   2   2   1   1 Amino acid kinase family
+tRNA-synt_1          PF00133.29 NP_414567.1          -           2.8e-164  539.4   0.0  3.4e-164  539.1   0.0   1.1   1   0   0   1   1   1   1 tRNA synthetases class I (I, L, M and V)
+Anticodon_1          PF08264.20 NP_414567.1          -            1.1e-31  102.4   0.0   2.1e-31  101.5   0.0   1.4   1   0   0   1   1   1   1 Anticodon-binding domain of tRNA ligase
+tRNA-synt_1g         PF09334.18 NP_414567.1          -            8.9e-22   70.0   0.1   1.1e-12   40.1   0.0   3.6   3   1   0   3   3   1   1 tRNA synthetases class I (M)
+tRNA-synt_1e         PF01406.26 NP_414567.1          -            3.6e-11   35.6   0.0     8e-09   27.9   0.0   2.4   2   0   0   2   2   1   1 tRNA synthetases class I (C) catalytic domain
+GATase               PF00117.35 NP_414573.1          -            1.2e-60  197.2   0.0   2.3e-60  196.2   0.0   1.5   2   0   0   2   2   1   1 Glutamine amidotransferase class-I
+Pyr_redox_2          PF07992.21 NP_414585.1          -            3.6e-11   35.6   5.9   1.1e-06   20.9   1.3   2.3   1   1   0   2   2   0   0 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_414585.1          -            2.5e-08   27.1   1.7   3.4e-05   17.1   0.8   2.6   2   0   0   2   2   0   0 Pyridine nucleotide-disulphide oxidoreductase
+RrnaAD               PF00398.27 NP_414593.1          -           3.1e-100  327.3   0.0  3.5e-100  327.1   0.0   1.0   1   0   0   1   1   1   1 Ribosomal RNA adenine dimethylase
+Helicase_C           PF00271.38 NP_414601.1          -            1.7e-24   79.0   0.0   4.1e-22   71.3   0.0   2.7   2   0   0   2   2   1   1 Helicase conserved C-terminal domain
+ABC_tran             PF00005.34 NP_414608.1          -            2.2e-41  134.4   0.0   3.7e-41  133.6   0.0   1.3   1   0   0   1   1   1   1 ABC transporter
+Pyr_redox_2          PF07992.21 NP_414658.1          -              6e-69  225.3   4.2   8.6e-69  224.8   4.2   1.2   1   0   0   1   1   1   1 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_414658.1          -              5e-22   71.0   5.3   3.2e-19   62.0   1.0   3.1   2   0   0   2   2   1   1 Pyridine nucleotide-disulphide oxidoreductase
+ABC_tran             PF00005.34 NP_414669.1          -            1.1e-35  115.9   0.0     2e-35  115.1   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+tRNA-synt_1c         PF00749.28 NP_414686.3          -            9.1e-51  165.2   0.0   8.5e-50  162.0   0.0   1.9   1   1   0   1   1   1   1 tRNA synthetases class I (E and Q), catalytic domain
+Helicase_C           PF00271.38 NP_414690.4          -            5.4e-12   38.7   0.0   9.8e-12   37.9   0.0   1.4   1   0   0   1   1   1   1 Helicase conserved C-terminal domain
+ABC_tran             PF00005.34 NP_414693.1          -              2e-37  121.6   0.0   2.5e-37  121.2   0.0   1.1   1   0   0   1   1   1   1 ABC transporter
+Peptidase_M24        PF00557.30 NP_414710.1          -            1.3e-56  184.3   0.3   1.5e-56  184.1   0.3   1.0   1   0   0   1   1   1   1 Metallopeptidase family M24
+Ribosomal_S2         PF00318.26 NP_414711.1          -            2.7e-99  323.4   0.0     3e-99  323.3   0.0   1.0   1   0   0   1   1   1   1 Ribosomal protein S2
+AA_kinase            PF00696.34 NP_414713.1          -            1.5e-36  118.9   0.4   1.7e-36  118.8   0.4   1.0   1   0   0   1   1   1   1 Amino acid kinase family
+PHP                  PF02811.27 NP_414726.1          -            3.3e-45  147.0   0.0   1.6e-44  144.8   0.0   2.3   3   0   0   3   3   1   1 PHP domain
+tRNA_anti-codon      PF01336.32 NP_414726.1          -            8.9e-14   44.0   0.1   1.9e-13   42.9   0.1   1.6   1   0   0   1   1   1   1 OB-fold nucleic acid binding domain
+ATP_bind_3           PF01171.27 NP_414730.1          -            3.8e-66  215.0   0.0     5e-66  214.6   0.0   1.2   1   0   0   1   1   1   1 PP-loop domain
+tRNA-synt_2b         PF00587.31 NP_414736.1          -            1.9e-39  128.3   0.0   2.8e-39  127.7   0.0   1.2   1   0   0   1   1   1   1 tRNA synthetase class II core domain (G, H, P, S and T)
+HGTP_anticodon       PF03129.26 NP_414736.1          -            6.9e-25   79.8   0.1   1.7e-24   78.6   0.1   1.7   1   0   0   1   1   1   1 Anticodon binding domain
+ABC_tran             PF00005.34 NP_414741.1          -            2.4e-41  134.3   0.0   4.5e-41  133.4   0.0   1.5   1   0   0   1   1   1   1 ABC transporter
+AA_kinase            PF00696.34 NP_414777.1          -            7.9e-50  162.4   2.3     1e-49  162.0   2.3   1.1   1   0   0   1   1   1   1 Amino acid kinase family
+MMR_HSR1             PF01926.30 NP_414787.4          -            3.2e-18   58.7   0.0   4.9e-18   58.0   0.0   1.3   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.34 NP_414796.2          -            2.4e-42  137.5   0.0   3.6e-42  136.9   0.0   1.3   1   0   0   1   1   1   1 ABC transporter
+Pyr_redox_2          PF07992.21 NP_414838.2          -            5.8e-64  208.9   0.3   7.6e-64  208.5   0.3   1.1   1   0   0   1   1   1   1 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_414838.2          -            1.1e-26   85.9   0.9   9.5e-24   76.5   0.0   2.4   2   0   0   2   2   1   1 Pyridine nucleotide-disulphide oxidoreductase
+AA_kinase            PF00696.34 NP_414857.1          -            2.9e-25   82.0   0.5   5.5e-25   81.1   0.5   1.4   1   1   0   1   1   1   1 Amino acid kinase family
+Pyr_redox            PF00070.34 NP_414881.1          -            3.4e-07   23.5   0.1   1.7e-06   21.2   0.1   2.1   2   0   0   2   2   0   0 Pyridine nucleotide-disulphide oxidoreductase
+ABC_tran             PF00005.34 NP_414900.1          -            1.6e-37  121.8   0.0   2.3e-37  121.4   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+AAA                  PF00004.36 NP_414922.1          -            1.7e-08   27.7   0.0   1.3e-06   21.6   0.0   2.3   2   0   0   2   2   1   1 ATPase family associated with various cellular activities (AAA)
+HATPase_c            PF02518.32 NP_414934.1          -            9.6e-33  105.7   0.1   1.9e-32  104.8   0.1   1.5   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+AAA                  PF00004.36 NP_414972.1          -            1.3e-18   60.4   0.0   9.4e-18   57.7   0.0   2.3   3   0   0   3   3   1   1 ATPase family associated with various cellular activities (AAA)
+AAA                  PF00004.36 NP_414973.1          -            1.5e-23   76.4   0.0   3.4e-23   75.3   0.0   1.6   1   0   0   1   1   1   1 ATPase family associated with various cellular activities (AAA)
+ABC_tran             PF00005.34 NP_414982.1          -            2.8e-33  108.1   0.0   4.9e-33  107.3   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_414983.1          -            7.4e-34  110.0   0.0   1.5e-33  109.0   0.0   1.5   1   0   0   1   1   1   1 ABC transporter
+AAA                  PF00004.36 NP_415003.1          -              7e-14   45.1   0.0   3.8e-13   42.7   0.0   2.2   2   0   0   2   2   1   1 ATPase family associated with various cellular activities (AAA)
+Toprim_4             PF13662.13 NP_415005.1          -            5.7e-28   89.8   0.0     1e-27   88.9   0.0   1.4   1   0   0   1   1   1   1 Toprim domain
+Toprim               PF01751.29 NP_415005.1          -            1.8e-18   59.3   0.0   2.8e-18   58.7   0.0   1.3   1   0   0   1   1   1   1 Toprim domain
+HATPase_c            PF02518.32 NP_415006.1          -            4.4e-11   36.0   0.1   8.9e-11   35.0   0.1   1.6   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+ABC_tran             PF00005.34 NP_415023.1          -            7.7e-34  109.9   0.0   1.1e-33  109.4   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+AAA                  PF00004.36 NP_415023.1          -            3.8e-08   26.6   1.8   2.1e-06   20.9   1.8   2.2   1   1   0   1   1   0   0 ATPase family associated with various cellular activities (AAA)
+ABC_tran             PF00005.34 NP_415028.1          -            3.1e-36  117.7   0.0   4.1e-36  117.3   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+AA_kinase            PF00696.34 NP_415054.1          -            4.1e-28   91.3   0.0   6.4e-28   90.7   0.0   1.3   1   1   0   1   1   1   1 Amino acid kinase family
+tRNA-synt_1e         PF01406.26 NP_415059.1          -           8.4e-155  507.2   0.2  1.1e-154  506.8   0.2   1.1   1   0   0   1   1   1   1 tRNA synthetases class I (C) catalytic domain
+tRNA-synt_1g         PF09334.18 NP_415059.1          -            4.8e-17   54.4   1.6   5.6e-09   27.8   0.2   2.1   2   0   0   2   2   2   2 tRNA synthetases class I (M)
+tRNA-synt_1          PF00133.29 NP_415059.1          -            6.9e-09   27.5   0.1     1e-07   23.6   0.0   2.1   2   0   0   2   2   1   1 tRNA synthetases class I (I, L, M and V)
+HATPase_c            PF02518.32 NP_415102.1          -            3.1e-29   94.4   0.0   5.5e-29   93.6   0.0   1.4   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+ABC_tran             PF00005.34 NP_415120.1          -            3.9e-37  120.6   0.0   5.6e-37  120.1   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+Pyr_redox_2          PF07992.21 NP_415139.2          -            5.2e-51  166.4   6.1   9.5e-51  165.5   6.0   1.5   1   1   0   1   1   1   1 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_415139.2          -            7.6e-18   57.6   5.6   5.4e-17   54.9   0.4   3.2   3   0   0   3   3   1   1 Pyridine nucleotide-disulphide oxidoreductase
+HATPase_c            PF02518.32 NP_415152.1          -              4e-20   65.1   0.0   6.8e-20   64.3   0.0   1.4   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+tRNA-synt_1          PF00133.29 NP_415175.1          -            5.1e-53  172.9   5.4   2.8e-33  107.9   2.0   4.3   3   1   0   3   3   3   3 tRNA synthetases class I (I, L, M and V)
+tRNA-synt_1g         PF09334.18 NP_415175.1          -            7.4e-35  113.0   0.1   1.9e-25   82.0   0.0   3.9   3   1   1   4   4   2   2 tRNA synthetases class I (M)
+Anticodon_1          PF08264.20 NP_415175.1          -            2.1e-22   72.3   0.0   3.7e-22   71.5   0.0   1.3   1   0   0   1   1   1   1 Anticodon-binding domain of tRNA ligase
+ABC_tran             PF00005.34 NP_415185.1          -            2.5e-38  124.5   0.0   3.4e-38  124.0   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+CBS                  PF00571.34 NP_415191.1          -            1.3e-19   63.1   2.9   4.5e-11   35.7   0.1   2.4   2   0   0   2   2   2   2 CBS domain
+tRNA-synt_1c         PF00749.28 NP_415206.1          -           6.2e-132  431.9   0.0  7.9e-132  431.5   0.0   1.1   1   0   0   1   1   1   1 tRNA synthetases class I (E and Q), catalytic domain
+HATPase_c            PF02518.32 NP_415223.1          -            5.9e-30   96.7   0.0   1.7e-29   95.2   0.0   1.9   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+ABC_tran             PF00005.34 NP_415281.1          -            1.8e-52  170.3   0.0   1.2e-30   99.6   0.0   2.2   2   0   0   2   2   2   2 ABC transporter
+AAA                  PF00004.36 NP_415281.1          -              6e-07   22.7   0.1    0.0003   13.9   0.0   3.3   2   1   0   2   2   0   0 ATPase family associated with various cellular activities (AAA)
+ABC_tran             PF00005.34 NP_415286.1          -            1.6e-36  118.7   0.0   2.6e-36  118.0   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+Helicase_C           PF00271.38 NP_415300.1          -            6.8e-23   73.8   0.2   1.8e-22   72.4   0.2   1.7   1   0   0   1   1   1   1 Helicase conserved C-terminal domain
+ABC_tran             PF00005.34 NP_415315.4          -            3.3e-63  205.1   0.0   5.5e-33  107.2   0.0   2.3   2   0   0   2   2   2   2 ABC transporter
+AAA                  PF00004.36 NP_415315.4          -            6.5e-07   22.6   0.3    0.0022   11.2   0.1   3.5   4   0   0   4   4   0   0 ATPase family associated with various cellular activities (AAA)
+Helicase_C           PF00271.38 NP_415318.1          -            2.4e-33  107.4   0.0   1.5e-32  104.8   0.0   2.2   3   0   0   3   3   1   1 Helicase conserved C-terminal domain
+ABC_tran             PF00005.34 NP_415330.1          -            1.2e-40  132.0   0.0   1.7e-40  131.5   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_415341.1          -            2.5e-50  163.3   0.0   1.7e-27   89.4   0.0   2.6   2   0   0   2   2   2   2 ABC transporter
+MMR_HSR1             PF01926.30 NP_415341.1          -            6.2e-07   22.3   0.0   0.00082   12.2   0.1   2.7   2   0   0   2   2   0   0 50S ribosome-binding GTPase
+ABC_tran             PF00005.34 NP_415350.2          -            6.1e-66  213.9   0.0     3e-33  108.0   0.0   2.7   3   0   0   3   3   2   2 ABC transporter
+ABC_tran             PF00005.34 NP_415376.4          -            8.5e-42  135.7   0.0   1.3e-41  135.1   0.0   1.3   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_415385.1          -            4.2e-41  133.5   0.0   5.9e-41  133.0   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_415400.1          -            3.9e-36  117.4   0.0   7.5e-36  116.5   0.0   1.5   1   0   0   1   1   1   1 ABC transporter
+AAA                  PF00004.36 NP_415403.1          -            2.8e-28   91.7   0.1   6.8e-16   51.6   0.0   3.1   2   1   1   3   3   2   2 ATPase family associated with various cellular activities (AAA)
+eIF-1a               PF01176.26 NP_415404.1          -            2.7e-31   99.8   0.1     3e-31   99.6   0.1   1.0   1   0   0   1   1   1   1 Translation initiation factor 1A / IF-1
+ABC_tran             PF00005.34 NP_415406.1          -            1.2e-35  115.8   0.3   2.5e-35  114.8   0.0   1.7   2   0   0   2   2   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_415407.1          -            1.9e-32  105.5   0.0   3.3e-32  104.7   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+Pyr_redox_2          PF07992.21 NP_415408.1          -            2.3e-56  184.0   0.3   2.7e-56  183.8   0.3   1.0   1   0   0   1   1   1   1 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_415408.1          -            1.2e-20   66.6   1.9   2.8e-19   62.2   0.7   2.5   2   0   0   2   2   1   1 Pyridine nucleotide-disulphide oxidoreductase
+AAA                  PF00004.36 NP_415412.1          -            6.6e-22   71.1   0.1   4.3e-21   68.4   0.0   2.1   1   1   1   2   2   1   1 ATPase family associated with various cellular activities (AAA)
+tRNA-synt_2b         PF00587.31 NP_415413.1          -            1.2e-45  148.4   0.0   1.9e-45  147.8   0.0   1.2   1   0   0   1   1   1   1 tRNA synthetase class II core domain (G, H, P, S and T)
+Aminotran_5          PF00266.26 NP_415427.1          -            1.9e-74  243.5   0.0   2.1e-74  243.3   0.0   1.0   1   0   0   1   1   1   1 Aminotransferase class-V
+S1                   PF00575.30 NP_415431.1          -           4.4e-106  340.2  35.2   2.6e-24   78.2   0.8   6.1   6   0   0   6   6   6   6 S1 RNA binding domain
+ABC_tran             PF00005.34 NP_415434.1          -            1.7e-38  125.0   0.2   8.3e-38  122.8   0.0   2.1   2   0   0   2   2   1   1 ABC transporter
+tRNA-synt_2          PF00152.26 NP_415450.1          -            1.7e-66  217.0   0.0   2.1e-66  216.7   0.0   1.1   1   0   0   1   1   1   1 tRNA synthetases class II (D, K and N)
+tRNA_anti-codon      PF01336.32 NP_415450.1          -              5e-17   54.4   0.2   1.9e-16   52.6   0.0   2.1   2   0   0   2   2   1   1 OB-fold nucleic acid binding domain
+ABC_tran             PF00005.34 NP_415453.1          -            5.8e-33  107.1   0.0   8.3e-33  106.6   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_415469.1          -            4.1e-52  169.1   3.2   5.9e-28   90.9   0.0   3.4   3   1   0   3   3   2   2 ABC transporter
+AAA                  PF00004.36 NP_415469.1          -            2.7e-08   27.1   0.0   8.4e-05   15.8   0.0   2.8   2   0   0   2   2   0   0 ATPase family associated with various cellular activities (AAA)
+MMR_HSR1             PF01926.30 NP_415469.1          -            9.7e-08   24.9   0.1    0.0012   11.7   0.0   2.9   3   0   0   3   3   0   0 50S ribosome-binding GTPase
+HATPase_c            PF02518.32 NP_415513.2          -            2.7e-30   97.8   0.0   8.3e-30   96.2   0.0   1.9   2   0   0   2   2   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+PHP                  PF02811.27 NP_415552.1          -            7.7e-12   38.5   1.1   4.9e-11   35.9   1.1   2.0   1   1   0   1   1   1   1 PHP domain
+S1                   PF00575.30 NP_415602.1          -            4.2e-15   48.7   0.0     1e-14   47.4   0.0   1.7   1   0   0   1   1   1   1 S1 RNA binding domain
+S4                   PF01479.31 NP_415604.1          -            1.4e-13   43.1   0.2   2.6e-13   42.3   0.2   1.5   1   0   0   1   1   1   1 S4 domain
+TatD_DNase           PF01026.28 NP_415618.1          -            7.4e-89  290.1   0.0   8.4e-89  289.9   0.0   1.0   1   0   0   1   1   1   1 TatD related DNase
+Pyr_redox_2          PF07992.21 NP_415627.1          -            3.9e-67  219.3   0.1   4.5e-67  219.1   0.1   1.0   1   0   0   1   1   1   1 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_415627.1          -            1.2e-18   60.1   3.9   3.3e-12   39.5   0.6   3.5   2   2   0   2   2   1   1 Pyridine nucleotide-disulphide oxidoreductase
+Helicase_C           PF00271.38 NP_415632.1          -            3.5e-25   81.2   1.7   7.3e-22   70.5   0.5   2.5   2   0   0   2   2   1   1 Helicase conserved C-terminal domain
+ABC_tran             PF00005.34 NP_415635.4          -            5.5e-41  133.1   0.0   7.7e-41  132.6   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_415644.1          -              2e-39  128.1   0.0   4.5e-39  126.9   0.0   1.6   1   0   0   1   1   1   1 ABC transporter
+HATPase_c            PF02518.32 NP_415647.1          -            2.7e-19   62.4   0.1   4.7e-19   61.6   0.1   1.4   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+Pyr_redox_2          PF07992.21 NP_415707.1          -            2.1e-10   33.1   0.4   3.8e-07   22.4   0.3   2.2   2   0   0   2   2   0   0 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_415707.1          -            1.8e-09   30.8   0.1   4.4e-07   23.1   0.2   2.4   2   0   0   2   2   1   1 Pyridine nucleotide-disulphide oxidoreductase
+MMR_HSR1             PF01926.30 NP_415721.1          -            1.1e-22   73.0   0.0   2.4e-22   71.9   0.0   1.6   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+HATPase_c            PF02518.32 NP_415740.1          -              4e-18   58.6   0.1   7.9e-18   57.7   0.1   1.5   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+ABC_tran             PF00005.34 NP_415763.1          -            4.7e-35  113.9   0.0   6.7e-35  113.4   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+GATase               PF00117.35 NP_415779.1          -            9.5e-53  171.4   0.0   1.6e-52  170.6   0.0   1.3   1   0   0   1   1   1   1 Glutamine amidotransferase class-I
+PHP                  PF02811.27 NP_415782.1          -            3.1e-11   36.5   0.0   5.5e-11   35.7   0.0   1.5   1   1   0   1   1   1   1 PHP domain
+Sua5_yciO_yrdC       PF01300.25 NP_415783.6          -            1.7e-52  170.2   0.0   1.9e-52  170.0   0.0   1.0   1   0   0   1   1   1   1 Telomere recombination
+S4                   PF01479.31 NP_415785.1          -            1.4e-13   43.1   0.1   5.1e-13   41.4   0.1   2.0   1   0   0   1   1   1   1 S4 domain
+Topoisom_bac         PF01131.26 NP_415790.1          -           3.6e-131  430.5   0.5  3.6e-131  430.5   0.5   1.5   2   0   0   2   2   1   1 DNA topoisomerase
+Toprim               PF01751.29 NP_415790.1          -            8.1e-24   76.4   0.0   2.1e-23   75.1   0.0   1.8   1   0   0   1   1   1   1 Toprim domain
+S1                   PF00575.30 NP_415802.1          -            2.5e-16   52.6   1.1   4.4e-14   45.4   0.3   2.4   2   0   0   2   2   1   1 S1 RNA binding domain
+ABC_tran             PF00005.34 NP_415806.1          -            1.6e-38  125.1   0.0   3.4e-38  124.0   0.0   1.5   2   0   0   2   2   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_415807.1          -            3.6e-33  107.8   0.0   1.7e-31  102.3   0.0   2.0   2   0   0   2   2   1   1 ABC transporter
+GATase               PF00117.35 NP_415814.4          -            3.1e-14   45.8   0.0   5.9e-14   44.8   0.0   1.5   1   1   0   1   1   1   1 Glutamine amidotransferase class-I
+AAA                  PF00004.36 NP_415839.1          -            5.9e-07   22.7   0.0   1.4e-06   21.5   0.0   1.6   1   0   0   1   1   1   1 ATPase family associated with various cellular activities (AAA)
+Helicase_C           PF00271.38 NP_415859.1          -            2.5e-33  107.4   0.0   7.7e-32  102.6   0.0   2.4   2   0   0   2   2   1   1 Helicase conserved C-terminal domain
+ATP_bind_3           PF01171.27 NP_415860.1          -            4.8e-16   51.7   0.0   7.2e-16   51.1   0.0   1.2   1   0   0   1   1   1   1 PP-loop domain
+Helicase_C           PF00271.38 NP_415931.4          -            4.5e-15   48.6   0.1   1.8e-14   46.7   0.1   2.1   1   0   0   1   1   1   1 Helicase conserved C-terminal domain
+ABC_tran             PF00005.34 NP_415958.1          -            1.7e-36  118.6   0.0   3.8e-36  117.4   0.0   1.6   2   0   0   2   2   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_416000.1          -            1.5e-31  102.5   0.0   2.4e-31  101.9   0.0   1.3   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_416001.1          -            5.9e-32  103.8   0.0   7.8e-32  103.4   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_416013.1          -            4.2e-21   68.7   0.0   1.2e-20   67.3   0.0   1.8   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_416030.1          -            2.5e-55  179.6   0.2   7.5e-31  100.3   0.0   2.3   2   0   0   2   2   2   2 ABC transporter
+HATPase_c            PF02518.32 NP_416126.1          -            2.5e-27   88.3   0.0   4.7e-27   87.4   0.0   1.5   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+tRNA-synt_1b         PF00579.32 NP_416154.1          -            9.7e-98  319.7   0.0   1.2e-97  319.3   0.0   1.1   1   0   0   1   1   1   1 tRNA synthetases class I (W and Y)
+S4                   PF01479.31 NP_416154.1          -            2.9e-09   29.3   0.0     7e-09   28.1   0.0   1.7   1   0   0   1   1   1   1 S4 domain
+Helicase_C           PF00271.38 NP_416170.1          -            5.4e-16   51.6   0.1   6.4e-15   48.1   0.0   2.5   1   1   1   2   2   1   1 Helicase conserved C-terminal domain
+Aminotran_5          PF00266.26 NP_416195.1          -           1.4e-162  533.5   0.0  1.6e-162  533.3   0.0   1.0   1   0   0   1   1   1   1 Aminotransferase class-V
+ABC_tran             PF00005.34 NP_416197.1          -            6.5e-24   77.8   0.0   8.7e-24   77.4   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+Pyr_redox_2          PF07992.21 NP_416214.1          -            3.1e-10   32.6   3.7   3.9e-08   25.7   0.2   2.7   2   2   1   3   3   0   0 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_416214.1          -            7.3e-09   28.8   2.6     3e-05   17.2   1.8   3.4   3   0   0   3   3   0   0 Pyridine nucleotide-disulphide oxidoreductase
+ABC_tran             PF00005.34 NP_416224.1          -            9.2e-26   83.8   0.0   1.5e-25   83.1   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+tRNA_bind            PF01588.27 NP_416228.1          -            5.4e-29   92.9   0.4   1.8e-28   91.3   0.0   2.1   2   0   0   2   2   1   1 Putative tRNA binding domain
+B5                   PF03484.22 NP_416228.1          -              4e-27   86.9   1.1   6.1e-26   83.2   0.2   2.7   2   0   0   2   2   1   1 tRNA synthetase B5 domain
+tRNA-synt_2d         PF01409.26 NP_416229.1          -           4.9e-110  359.4   0.1    6e-110  359.1   0.1   1.1   1   0   0   1   1   1   1 tRNA synthetases class II core domain (F)
+tRNA-synt_2b         PF00587.31 NP_416234.1          -            5.2e-66  214.8   0.0   9.1e-66  214.0   0.0   1.4   1   0   0   1   1   1   1 tRNA synthetase class II core domain (G, H, P, S and T)
+HGTP_anticodon       PF03129.26 NP_416234.1          -            3.3e-28   90.5   1.1   8.2e-28   89.2   1.1   1.7   1   0   0   1   1   1   1 Anticodon binding domain
+tRNA_SAD             PF07973.20 NP_416234.1          -            3.7e-18   58.0   0.0   7.7e-18   57.0   0.0   1.6   1   0   0   1   1   1   1 Threonyl and Alanyl tRNA synthetase second additional domain
+ABC_tran             PF00005.34 NP_416270.1          -            8.7e-32  103.3   0.0   1.1e-31  102.9   0.0   1.1   1   0   0   1   1   1   1 ABC transporter
+Topoisom_bac         PF01131.26 NP_416277.1          -           2.9e-111  365.0   0.0  3.8e-111  364.6   0.0   1.0   1   0   0   1   1   1   1 DNA topoisomerase
+Toprim               PF01751.29 NP_416277.1          -            4.7e-18   57.9   0.0   1.2e-17   56.7   0.0   1.7   1   0   0   1   1   1   1 Toprim domain
+TsaD                 PF00814.32 NP_416321.1          -            8.1e-31  100.3   0.0   1.5e-30   99.4   0.0   1.6   1   1   0   1   1   1   1 tRNA N6-adenosine threonylcarbamoyltransferase
+CBS                  PF00571.34 NP_416330.1          -            4.6e-10   32.5   1.3   8.4e-05   15.6   0.1   3.2   3   0   0   3   3   0   0 CBS domain
+ABC_tran             PF00005.34 NP_416372.1          -            8.8e-32  103.3   0.0   1.4e-31  102.6   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+AAA                  PF00004.36 NP_416374.1          -            3.5e-24   78.5   0.0     7e-24   77.5   0.0   1.5   1   0   0   1   1   1   1 ATPase family associated with various cellular activities (AAA)
+tRNA-synt_2          PF00152.26 NP_416380.1          -           1.3e-126  414.5   0.0  1.5e-126  414.2   0.0   1.1   1   0   0   1   1   1   1 tRNA synthetases class II (D, K and N)
+tRNA_anti-codon      PF01336.32 NP_416380.1          -            1.6e-20   65.6   0.0   3.4e-20   64.6   0.0   1.6   1   0   0   1   1   1   1 OB-fold nucleic acid binding domain
+tRNA-synt_1d         PF00750.26 NP_416390.1          -           2.2e-183  601.6   0.3  2.8e-183  601.2   0.3   1.1   1   0   0   1   1   1   1 tRNA synthetases class I (R), catalytic domain
+DALR_1               PF05746.22 NP_416390.1          -            4.2e-40  129.2   0.2   1.9e-39  127.1   0.2   2.1   2   0   0   2   2   1   1 DALR anticodon binding domain
+HATPase_c            PF02518.32 NP_416402.2          -            9.4e-21   67.1   0.2   1.9e-20   66.1   0.2   1.5   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+ABC_tran             PF00005.34 NP_416413.1          -            5.6e-59  191.4   0.0   1.5e-37  122.0   0.0   2.2   2   0   0   2   2   2   2 ABC transporter
+ABC_tran             PF00005.34 NP_416427.1          -            3.8e-41  133.6   0.0   5.9e-41  133.0   0.0   1.3   1   0   0   1   1   1   1 ABC transporter
+ATP-synt_ab          PF00006.32 NP_416451.1          -            2.1e-88  288.2   0.1   3.1e-88  287.6   0.1   1.3   1   0   0   1   1   1   1 ATP synthase alpha/beta family, nucleotide-binding domain
+HATPase_c            PF02518.32 NP_416477.1          -            3.6e-20   65.2   0.0   6.6e-20   64.4   0.0   1.5   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+GATase               PF00117.35 NP_416527.1          -            8.3e-22   70.4   0.0     1e-21   70.2   0.0   1.1   1   0   0   1   1   1   1 Glutamine amidotransferase class-I
+Pyr_redox            PF00070.34 NP_416540.1          -            1.4e-07   24.8   0.0   3.3e-07   23.5   0.0   1.7   1   0   0   1   1   1   1 Pyridine nucleotide-disulphide oxidoreductase
+CBS                  PF00571.34 NP_416567.4          -            1.5e-17   56.4   1.6   6.7e-09   28.8   0.0   2.9   3   0   0   3   3   2   2 CBS domain
+HATPase_c            PF02518.32 NP_416582.1          -              3e-28   91.2   0.0   6.3e-28   90.2   0.0   1.6   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+tRNA-synt_1g         PF09334.18 NP_416617.1          -           4.8e-168  551.5   0.1    6e-168  551.2   0.1   1.1   1   0   0   1   1   1   1 tRNA synthetases class I (M)
+tRNA_bind            PF01588.27 NP_416617.1          -              3e-27   87.3   0.0   8.4e-27   85.9   0.0   1.8   2   0   0   2   2   1   1 Putative tRNA binding domain
+tRNA-synt_1          PF00133.29 NP_416617.1          -            1.2e-20   66.3   0.6   3.3e-14   45.0   0.1   2.8   3   0   0   3   3   1   1 tRNA synthetases class I (I, L, M and V)
+tRNA-synt_1e         PF01406.26 NP_416617.1          -            1.4e-16   53.4   0.2   3.5e-08   25.8   0.0   2.3   2   0   0   2   2   0   0 tRNA synthetases class I (C) catalytic domain
+HATPase_c            PF02518.32 NP_416630.1          -            1.2e-08   28.2   0.0   4.2e-08   26.4   0.0   1.9   1   1   0   1   1   0   0 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+ABC_tran             PF00005.34 NP_416633.1          -            1.3e-35  115.7   0.0   2.3e-35  114.9   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+CBS                  PF00571.34 NP_416633.1          -              4e-08   26.3   0.2   3.7e-07   23.2   0.0   2.6   3   0   0   3   3   1   1 CBS domain
+Pyr_redox_2          PF07992.21 NP_416651.1          -            7.7e-28   90.4   3.6   1.8e-27   89.1   3.6   1.7   1   1   0   1   1   1   1 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_416651.1          -            2.3e-17   56.1   0.6   5.2e-11   35.7   0.1   3.2   3   0   0   3   3   1   1 Pyridine nucleotide-disulphide oxidoreductase
+ABC_tran             PF00005.34 NP_416654.1          -            1.4e-53  173.9   0.2     1e-32  106.3   0.0   2.3   2   0   0   2   2   2   2 ABC transporter
+ABC_tran             PF00005.34 NP_416685.1          -              4e-67  217.7   0.1   2.6e-35  114.7   0.0   2.3   2   0   0   2   2   2   2 ABC transporter
+S4                   PF01479.31 NP_416688.1          -            2.7e-12   39.0   0.2   5.5e-12   38.0   0.2   1.5   1   0   0   1   1   1   1 S4 domain
+Helicase_C           PF00271.38 NP_416689.1          -            3.4e-17   55.5   0.0   1.9e-16   53.0   0.0   2.2   2   1   1   3   3   1   1 Helicase conserved C-terminal domain
+ABC_tran             PF00005.34 NP_416705.2          -            2.1e-38  124.7   0.0   2.9e-38  124.3   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_416715.1          -            4.6e-32  104.2   0.0   8.7e-32  103.3   0.0   1.5   1   0   0   1   1   1   1 ABC transporter
+HATPase_c            PF02518.32 NP_416720.1          -            2.1e-14   46.7   0.0   4.5e-14   45.6   0.0   1.6   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HATPase_c            PF02518.32 NP_416722.2          -            1.5e-34  111.5   0.0   3.1e-34  110.5   0.0   1.6   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HATPase_c            PF02518.32 NP_416723.1          -            9.1e-28   89.7   0.0   2.4e-27   88.3   0.0   1.8   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+AAA                  PF00004.36 NP_416724.1          -            7.9e-08   25.5   0.0   1.1e-06   21.9   0.0   2.7   2   0   0   2   2   1   1 ATPase family associated with various cellular activities (AAA)
+Aminotran_5          PF00266.26 NP_416756.6          -            2.3e-08   26.0   0.2   3.1e-08   25.6   0.2   1.1   1   0   0   1   1   1   1 Aminotransferase class-V
+ABC_tran             PF00005.34 NP_416809.1          -            2.4e-38  124.5   0.1   3.6e-38  124.0   0.1   1.3   1   0   0   1   1   1   1 ABC transporter
+HATPase_c            PF02518.32 NP_416871.1          -            9.3e-30   96.1   0.1   1.7e-29   95.2   0.1   1.5   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HATPase_c            PF02518.32 NP_416881.1          -            3.1e-13   42.9   0.0   5.9e-13   42.0   0.0   1.5   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+Peptidase_M24        PF00557.30 NP_416886.1          -            1.8e-75  245.9   0.1   2.4e-75  245.5   0.1   1.2   1   0   0   1   1   1   1 Metallopeptidase family M24
+tRNA-synt_1c         PF00749.28 NP_416899.1          -           9.7e-128  418.1   0.0  1.6e-127  417.4   0.0   1.3   1   0   0   1   1   1   1 tRNA synthetases class I (E and Q), catalytic domain
+ABC_tran             PF00005.34 NP_416917.1          -            1.4e-43  141.5   0.0   2.5e-43  140.7   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.30 NP_416956.1          -            4.1e-07   22.9   0.1   2.4e-06   20.4   0.1   2.1   1   1   0   1   1   0   0 50S ribosome-binding GTPase
+Pyr_redox_2          PF07992.21 NP_416963.1          -            3.7e-26   84.8   0.0   9.1e-26   83.5   0.0   1.7   1   1   0   1   1   1   1 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_416963.1          -            1.7e-14   46.9   0.4   1.1e-06   21.8   0.1   3.1   2   1   0   2   2   0   0 Pyridine nucleotide-disulphide oxidoreductase
+HATPase_c            PF02518.32 NP_416964.1          -            1.3e-16   53.8   0.0   2.4e-16   52.9   0.0   1.5   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+AAA                  PF00004.36 NP_416986.4          -            7.5e-07   22.4   0.0   2.3e-06   20.8   0.0   1.9   1   0   0   1   1   0   0 ATPase family associated with various cellular activities (AAA)
+GATase               PF00117.35 NP_417002.1          -            1.6e-49  160.9   0.0   2.3e-49  160.3   0.0   1.3   1   0   0   1   1   1   1 Glutamine amidotransferase class-I
+CBS                  PF00571.34 NP_417003.1          -            1.5e-21   69.3   4.4   4.1e-12   39.1   0.2   3.5   3   0   0   3   3   2   2 CBS domain
+tRNA_anti-codon      PF01336.32 NP_417004.1          -            3.8e-16   51.6   0.0     8e-16   50.5   0.0   1.6   1   0   0   1   1   1   1 OB-fold nucleic acid binding domain
+MMR_HSR1             PF01926.30 NP_417006.2          -            4.7e-64  206.3   0.1   2.9e-33  107.1   0.0   2.3   2   0   0   2   2   2   2 50S ribosome-binding GTPase
+GTP_EFTU             PF00009.34 NP_417006.2          -            6.7e-25   80.4   0.1   2.5e-13   42.7   0.1   4.7   2   2   0   2   2   1   1 Elongation factor Tu GTP binding domain
+tRNA-synt_His        PF13393.12 NP_417009.1          -            1.3e-42  138.7   0.0   1.7e-42  138.3   0.0   1.2   1   0   0   1   1   1   1 Histidyl-tRNA synthetase
+tRNA-synt_2b         PF00587.31 NP_417009.1          -            9.8e-39  125.9   0.0   1.7e-38  125.1   0.0   1.4   1   1   0   1   1   1   1 tRNA synthetase class II core domain (G, H, P, S and T)
+HGTP_anticodon       PF03129.26 NP_417009.1          -            3.5e-13   42.3   0.1   9.1e-13   41.0   0.0   1.7   2   0   0   2   2   1   1 Anticodon binding domain
+Pyr_redox_2          PF07992.21 NP_417037.1          -              9e-61  198.4   0.0   1.1e-60  198.2   0.0   1.1   1   0   0   1   1   1   1 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_417037.1          -            1.1e-20   66.8   2.0   1.2e-18   60.2   0.1   2.7   3   0   0   3   3   1   1 Pyridine nucleotide-disulphide oxidoreductase
+ABC_tran             PF00005.34 NP_417042.1          -            1.3e-61  199.9   0.3   6.7e-34  110.1   0.0   2.2   2   0   0   2   2   2   2 ABC transporter
+HATPase_c            PF02518.32 NP_417051.2          -            3.9e-23   74.8   0.0   7.7e-23   73.8   0.0   1.5   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+MMR_HSR1             PF01926.30 NP_417061.1          -            1.8e-28   91.6   0.1   3.8e-28   90.6   0.1   1.5   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+KH_2                 PF07650.24 NP_417061.1          -              1e-22   72.6   1.5   1.9e-22   71.7   0.8   1.9   2   0   0   2   2   1   1 KH domain
+GTP_EFTU             PF00009.34 NP_417061.1          -              2e-12   39.7   0.7   3.4e-10   32.5   0.7   2.3   1   1   0   1   1   1   1 Elongation factor Tu GTP binding domain
+GTP_EFTU             PF00009.34 NP_417064.1          -            2.4e-58  189.5   0.1     5e-58  188.5   0.1   1.6   1   0   0   1   1   1   1 Elongation factor Tu GTP binding domain
+EFG_C                PF00679.31 NP_417064.1          -            3.1e-22   71.2   0.0   7.1e-22   70.1   0.0   1.7   1   0   0   1   1   1   1 Elongation factor G C-terminus
+GTP_EFTU_D2          PF03144.32 NP_417064.1          -            1.2e-14   47.2   0.4   3.5e-14   45.8   0.4   1.8   1   0   0   1   1   1   1 Elongation factor Tu domain 2
+Pyr_redox_2          PF07992.21 NP_417069.1          -            2.4e-13   42.8   0.7     8e-08   24.7   0.2   2.9   2   1   0   2   2   0   0 Pyridine nucleotide-disulphide oxidoreductase
+Helicase_C           PF00271.38 NP_417071.1          -            5.9e-34  109.4   0.1   2.1e-31  101.2   0.1   2.7   3   0   0   3   3   1   1 Helicase conserved C-terminal domain
+AAA                  PF00004.36 NP_417083.1          -            3.4e-29   94.7   0.0     2e-15   50.1   0.0   3.0   2   0   0   2   2   2   2 ATPase family associated with various cellular activities (AAA)
+S4                   PF01479.31 NP_417085.1          -            4.2e-16   51.2   0.0   7.3e-16   50.5   0.0   1.4   1   0   0   1   1   1   1 S4 domain
+SRP54                PF00448.29 NP_417101.1          -            1.3e-78  255.8   0.4     2e-78  255.2   0.4   1.3   1   0   0   1   1   1   1 SRP54-type protein, GTPase domain
+SRP_SPB              PF02978.27 NP_417101.1          -            1.4e-50  163.6  18.9   3.9e-50  162.2  18.9   1.7   1   0   0   1   1   1   1 Signal peptide binding domain
+SRP54_N              PF02881.25 NP_417101.1          -              1e-25   82.5   0.5     1e-25   82.5   0.5   3.1   3   1   0   3   3   1   1 SRP54-type protein, helical bundle domain
+Helicase_C           PF00271.38 NP_417116.1          -            4.2e-08   26.2   0.1   1.8e-07   24.2   0.0   2.1   2   0   0   2   2   1   1 Helicase conserved C-terminal domain
+ABC_tran             PF00005.34 NP_417163.1          -            3.5e-38  124.0   0.0   6.8e-38  123.1   0.0   1.5   1   0   0   1   1   1   1 ABC transporter
+CBS                  PF00571.34 NP_417163.1          -            1.5e-11   37.2   0.0   1.7e-08   27.4   0.0   2.9   2   0   0   2   2   1   1 CBS domain
+tRNA-synt_2c         PF01411.25 NP_417177.1          -           2.2e-244  804.7   0.0  3.6e-244  804.0   0.0   1.3   1   0   0   1   1   1   1 tRNA synthetases class II (A)
+DHHA1                PF02272.25 NP_417177.1          -            5.6e-26   83.7   1.1   2.2e-25   81.9   1.1   2.1   1   0   0   1   1   1   1 DHHA1 domain
+tRNA_SAD             PF07973.20 NP_417177.1          -            1.1e-19   62.9   1.1   2.5e-19   61.8   0.1   2.3   2   0   0   2   2   1   1 Threonyl and Alanyl tRNA synthetase second additional domain
+CBS                  PF00571.34 NP_417188.4          -            5.3e-15   48.3   0.1   7.2e-08   25.5   0.0   2.9   3   0   0   3   3   2   2 CBS domain
+AAA                  PF00004.36 NP_417189.2          -              1e-07   25.2   0.0   2.3e-07   24.0   0.0   1.6   1   0   0   1   1   1   1 ATPase family associated with various cellular activities (AAA)
+Pyr_redox_2          PF07992.21 NP_417191.1          -              4e-57  186.5   0.0     5e-57  186.1   0.0   1.1   1   0   0   1   1   1   1 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_417191.1          -            1.7e-20   66.1   0.1   3.2e-19   62.0   0.0   2.3   2   0   0   2   2   1   1 Pyridine nucleotide-disulphide oxidoreductase
+Sua5_yciO_yrdC       PF01300.25 NP_417192.1          -            1.9e-43  140.7   0.0   3.2e-43  139.9   0.0   1.3   1   0   0   1   1   1   1 Telomere recombination
+AAA                  PF00004.36 NP_417211.1          -            1.4e-07   24.7   0.0   3.7e-07   23.4   0.0   1.7   1   0   0   1   1   1   1 ATPase family associated with various cellular activities (AAA)
+RrnaAD               PF00398.27 NP_417223.1          -            3.1e-09   29.0   0.0   4.1e-09   28.6   0.0   1.2   1   0   0   1   1   1   1 Ribosomal RNA adenine dimethylase
+GTP_EFTU             PF00009.34 NP_417231.1          -              8e-48  155.2   0.0   1.1e-47  154.7   0.0   1.1   1   0   0   1   1   1   1 Elongation factor Tu GTP binding domain
+MMR_HSR1             PF01926.30 NP_417231.1          -            2.7e-09   29.9   0.0   8.8e-07   21.8   0.0   2.4   2   0   0   2   2   0   0 50S ribosome-binding GTPase
+Helicase_C           PF00271.38 NP_417241.1          -            1.2e-08   28.0   0.2   2.9e-08   26.7   0.2   1.7   1   0   0   1   1   1   1 Helicase conserved C-terminal domain
+Pyr_redox_2          PF07992.21 NP_417246.4          -            6.3e-11   34.8   0.2   1.5e-09   30.3   0.2   2.1   1   1   0   1   1   1   1 Pyridine nucleotide-disulphide oxidoreductase
+GATase               PF00117.35 NP_417260.1          -            3.9e-46  149.8   0.0   7.8e-46  148.8   0.0   1.5   1   0   0   1   1   1   1 Glutamine amidotransferase class-I
+RrnaAD               PF00398.27 NP_417265.1          -            6.2e-09   28.0   0.0     1e-08   27.3   0.0   1.2   1   0   0   1   1   1   1 Ribosomal RNA adenine dimethylase
+HATPase_c            PF02518.32 NP_417266.1          -            1.1e-32  105.5   0.3     2e-32  104.7   0.3   1.4   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+Aminotran_5          PF00266.26 NP_417290.1          -           7.5e-148  485.0   0.0  8.4e-148  484.9   0.0   1.0   1   0   0   1   1   1   1 Aminotransferase class-V
+AA_kinase            PF00696.34 NP_417295.1          -            3.2e-40  130.9   0.4   4.7e-40  130.4   0.4   1.2   1   0   0   1   1   1   1 Amino acid kinase family
+AA_kinase            PF00696.34 NP_417350.1          -            5.9e-29   94.1   1.7   1.4e-28   92.9   1.7   1.5   1   1   0   1   1   1   1 Amino acid kinase family
+Pyr_redox_2          PF07992.21 NP_417354.1          -            1.3e-44  145.4   0.0     2e-44  144.8   0.0   1.3   1   0   0   1   1   1   1 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_417354.1          -            4.2e-11   36.0   0.2   1.8e-05   17.9   0.2   3.0   3   0   0   3   3   0   0 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox_2          PF07992.21 NP_417363.2          -            6.3e-29   93.9   0.0   6.3e-23   74.2   0.0   2.0   1   1   1   2   2   2   2 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_417363.2          -            2.9e-14   46.1   0.3   3.7e-08   26.6   0.1   3.6   2   1   0   2   2   1   1 Pyridine nucleotide-disulphide oxidoreductase
+tRNA-synt_2          PF00152.26 NP_417366.1          -            6.4e-98  320.2   0.6     8e-98  319.9   0.6   1.1   1   0   0   1   1   1   1 tRNA synthetases class II (D, K and N)
+tRNA_anti-codon      PF01336.32 NP_417366.1          -            4.1e-19   61.1   0.0   7.3e-19   60.3   0.0   1.4   1   0   0   1   1   1   1 OB-fold nucleic acid binding domain
+tRNA-synt_2d         PF01409.26 NP_417366.1          -            5.1e-07   22.0   1.0    0.0021   10.2   0.1   3.2   4   0   0   4   4   0   0 tRNA synthetases class II core domain (F)
+DHHA1                PF02272.25 NP_417368.1          -            1.3e-22   72.9   0.0   2.6e-22   72.0   0.0   1.5   1   0   0   1   1   1   1 DHHA1 domain
+Peptidase_M24        PF00557.30 NP_417384.1          -            4.6e-70  228.3   0.3   6.2e-70  227.8   0.3   1.2   1   0   0   1   1   1   1 Metallopeptidase family M24
+HATPase_c            PF02518.32 NP_417498.1          -              7e-24   77.2   0.0     2e-23   75.7   0.0   1.8   2   0   0   2   2   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HATPase_c            PF02518.32 NP_417502.1          -            1.3e-16   53.8   0.1   2.5e-16   52.9   0.1   1.4   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+Toprim               PF01751.29 NP_417502.1          -            7.3e-15   47.7   0.0   1.4e-14   46.8   0.0   1.5   1   0   0   1   1   1   1 Toprim domain
+TsaD                 PF00814.32 NP_417536.1          -           5.4e-103  336.9   0.0  6.1e-103  336.7   0.0   1.0   1   0   0   1   1   1   1 tRNA N6-adenosine threonylcarbamoyltransferase
+Toprim_4             PF13662.13 NP_417538.1          -            3.8e-18   58.3   0.0   8.7e-18   57.1   0.0   1.6   1   0   0   1   1   1   1 Toprim domain
+Toprim               PF01751.29 NP_417538.1          -            6.7e-18   57.5   0.0   1.3e-17   56.6   0.0   1.5   1   0   0   1   1   1   1 Toprim domain
+tRNA_bind            PF01588.27 NP_417545.1          -            7.4e-36  114.9   0.5   8.4e-36  114.8   0.5   1.0   1   0   0   1   1   1   1 Putative tRNA binding domain
+Pyr_redox_2          PF07992.21 NP_417552.1          -            7.2e-28   90.4   0.1   1.2e-27   89.7   0.1   1.4   1   0   0   1   1   1   1 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_417552.1          -            4.9e-10   32.6   1.1   2.2e-06   20.9   0.1   4.2   4   0   0   4   4   0   0 Pyridine nucleotide-disulphide oxidoreductase
+Helicase_C           PF00271.38 NP_417631.2          -            8.9e-35  112.0   0.0   2.6e-32  104.1   0.1   2.7   2   0   0   2   2   1   1 Helicase conserved C-terminal domain
+S1                   PF00575.30 NP_417633.4          -            2.8e-26   84.5   3.5   2.8e-26   84.5   3.5   2.3   2   0   0   2   2   1   1 S1 RNA binding domain
+Ribosomal_S15        PF00312.28 NP_417634.1          -              8e-41  130.9   1.3   9.1e-41  130.7   1.3   1.0   1   0   0   1   1   1   1 Ribosomal protein S15
+IF-2                 PF11987.14 NP_417637.1          -            8.4e-46  147.4   3.5   4.4e-45  145.1   3.5   2.4   1   0   0   1   1   1   1 Translation-initiation factor 2
+GTP_EFTU             PF00009.34 NP_417637.1          -            8.8e-42  135.5   1.4     9e-40  128.9   1.4   3.2   1   1   0   1   1   1   1 Elongation factor Tu GTP binding domain
+GTP_EFTU_D2          PF03144.32 NP_417637.1          -            7.1e-15   48.0   9.1   4.2e-12   39.1   1.3   4.1   2   1   0   3   3   1   1 Elongation factor Tu domain 2
+MMR_HSR1             PF01926.30 NP_417637.1          -            3.4e-13   42.5   0.1   1.3e-12   40.6   0.1   2.1   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+S1                   PF00575.30 NP_417638.1          -            1.2e-07   24.8   0.1   6.1e-07   22.5   0.1   2.2   1   0   0   1   1   1   1 S1 RNA binding domain
+AAA                  PF00004.36 NP_417645.1          -            3.5e-50  162.6   0.0   9.4e-50  161.2   0.0   1.8   1   0   0   1   1   1   1 ATPase family associated with various cellular activities (AAA)
+MMR_HSR1             PF01926.30 NP_417650.1          -            3.1e-27   87.7   0.0   5.2e-27   87.0   0.0   1.4   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.34 NP_417662.1          -            6.7e-33  106.9   0.0   8.6e-33  106.5   0.0   1.1   1   0   0   1   1   1   1 ABC transporter
+CBS                  PF00571.34 NP_417664.1          -            1.2e-16   53.6   6.7   3.3e-09   29.7   0.4   3.2   3   0   0   3   3   2   2 CBS domain
+ABC_tran             PF00005.34 NP_417668.1          -            1.9e-38  124.9   0.0   2.8e-38  124.3   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+Pyr_redox_2          PF07992.21 NP_417680.1          -              2e-28   92.3   4.7   1.3e-27   89.6   4.6   2.4   1   1   0   1   1   1   1 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_417680.1          -            3.4e-16   52.3   5.2   5.3e-09   29.3   0.4   3.1   2   1   0   2   2   2   2 Pyridine nucleotide-disulphide oxidoreductase
+Ribosomal_S9         PF00380.26 NP_417697.1          -              3e-53  172.2   2.0   3.4e-53  172.0   2.0   1.0   1   0   0   1   1   1   1 Ribosomal protein S9/S16
+Ribosomal_L13        PF00572.25 NP_417698.1          -            6.1e-50  161.0   0.1   7.1e-50  160.8   0.1   1.0   1   0   0   1   1   1   1 Ribosomal protein L13
+S1                   PF00575.30 NP_417713.2          -              3e-09   29.9   0.3   1.8e-08   27.4   0.0   2.2   2   0   0   2   2   1   1 S1 RNA binding domain
+ABC_tran             PF00005.34 NP_417737.1          -            5.9e-42  136.2   0.0   7.8e-42  135.8   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+Sua5_yciO_yrdC       PF01300.25 NP_417741.1          -              1e-48  157.8   0.0   1.2e-48  157.7   0.0   1.0   1   0   0   1   1   1   1 Telomere recombination
+RNA_pol_A_bac        PF01000.32 NP_417754.1          -            8.1e-38  122.0   0.1   1.6e-37  121.1   0.1   1.5   1   0   0   1   1   1   1 RNA polymerase Rpb3/RpoA insert domain
+RNA_pol_L            PF01193.30 NP_417754.1          -              5e-28   89.4   0.0   8.2e-28   88.7   0.0   1.4   1   0   0   1   1   1   1 RNA polymerase Rpb3/Rpb11 dimerisation domain
+S4                   PF01479.31 NP_417755.1          -            1.4e-21   68.8   0.2   2.9e-21   67.8   0.2   1.6   1   0   0   1   1   1   1 S4 domain
+Ribosomal_S11        PF00411.25 NP_417756.1          -            3.9e-57  184.2   0.8   4.7e-57  183.9   0.8   1.1   1   0   0   1   1   1   1 Ribosomal protein S11
+Ribosomal_S13        PF00416.28 NP_417757.1          -            7.7e-38  122.5   5.9   3.7e-36  117.1   5.9   2.0   1   1   0   1   1   1   1 Ribosomal protein S13/S18
+SecY                 PF00344.26 NP_417759.1          -           7.2e-124  405.7  18.9    9e-124  405.4  18.9   1.1   1   0   0   1   1   1   1 SecY
+Ribosomal_L27A       PF00828.26 NP_417760.1          -            2.5e-15   49.5   3.1   3.7e-15   48.9   3.1   1.3   1   0   0   1   1   1   1 Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A
+Ribosomal_S5_C       PF03719.22 NP_417762.1          -            7.9e-33  104.5   0.4   1.4e-32  103.8   0.4   1.4   1   0   0   1   1   1   1 Ribosomal protein S5, C-terminal domain
+Ribosomal_S5         PF00333.27 NP_417762.1          -            2.3e-32  103.6   2.6   4.1e-32  102.8   2.6   1.4   1   0   0   1   1   1   1 Ribosomal protein S5, N-terminal domain
+Ribosomal_L18p       PF00861.28 NP_417763.1          -            5.4e-42  135.6   4.2   5.9e-42  135.4   4.2   1.0   1   0   0   1   1   1   1 Ribosomal L18 of archaea, bacteria, mitoch. and chloroplast
+Ribosomal_L6         PF00347.29 NP_417764.1          -            3.6e-45  145.4   0.2   1.2e-24   79.7   0.0   2.1   2   0   0   2   2   2   2 Ribosomal protein L6
+Ribosomal_S8         PF00410.25 NP_417765.1          -            1.3e-51  166.6   0.1   1.4e-51  166.4   0.1   1.0   1   0   0   1   1   1   1 Ribosomal protein S8
+Ribosomal_S14        PF00253.28 NP_417766.1          -            4.4e-29   92.8   1.7   6.1e-29   92.3   1.7   1.2   1   0   0   1   1   1   1 Ribosomal protein S14p/S29e
+Ribosomal_L5_C       PF00673.27 NP_417767.1          -            3.1e-44  141.8   0.0   4.9e-44  141.2   0.0   1.3   1   0   0   1   1   1   1 ribosomal L5P family C-terminus
+Ribosomal_L5         PF00281.25 NP_417767.1          -              5e-31   99.6   0.3   9.1e-31   98.7   0.3   1.4   1   0   0   1   1   1   1 Ribosomal protein L5
+Ribosomal_L14        PF00238.25 NP_417769.1          -            1.1e-57  185.9   0.5   1.2e-57  185.8   0.5   1.0   1   0   0   1   1   1   1 Ribosomal protein L14p/L23e
+Ribosomal_S17        PF00366.27 NP_417770.1          -            1.3e-37  120.5   1.2   1.6e-37  120.2   1.2   1.1   1   0   0   1   1   1   1 Ribosomal protein S17
+Ribosomal_L29        PF00831.29 NP_417771.1          -            1.3e-25   81.9   7.6   1.4e-25   81.8   7.6   1.0   1   0   0   1   1   1   1 Ribosomal L29 protein
+Ribosomal_L16        PF00252.25 NP_417772.1          -            2.1e-53  172.5   1.6   2.3e-53  172.4   1.6   1.0   1   0   0   1   1   1   1 Ribosomal protein L16p/L10e
+Ribosomal_S3_C       PF00189.26 NP_417773.1          -            4.6e-43  138.4   1.0   8.5e-43  137.6   1.0   1.5   1   0   0   1   1   1   1 Ribosomal protein S3, C-terminal domain
+KH_2                 PF07650.24 NP_417773.1          -            2.4e-22   71.4   3.6   5.5e-22   70.2   3.6   1.6   1   0   0   1   1   1   1 KH domain
+Ribosomal_L22        PF00237.25 NP_417774.1          -            4.9e-44  141.5   2.8   5.5e-44  141.4   2.8   1.0   1   0   0   1   1   1   1 Ribosomal protein L22p/L17e
+Ribosomal_S19        PF00203.27 NP_417775.1          -            1.1e-40  130.1   0.1   1.3e-40  129.9   0.1   1.0   1   0   0   1   1   1   1 Ribosomal protein S19
+Ribosomal_L2_C       PF03947.25 NP_417776.1          -            1.7e-59  192.1   2.7   2.9e-59  191.4   2.7   1.4   1   0   0   1   1   1   1 Ribosomal Proteins L2, C-terminal domain
+Ribosomal_L2_N       PF00181.31 NP_417776.1          -            1.2e-39  127.1   0.4   7.1e-39  124.6   0.2   2.1   2   0   0   2   2   1   1 Ribosomal Proteins L2, RNA binding N-terminal domain
+Ribosomal_L23        PF00276.26 NP_417777.1          -            5.6e-35  112.4   4.8   6.3e-35  112.2   4.8   1.0   1   0   0   1   1   1   1 Ribosomal protein L23
+Ribosomal_L4         PF00573.28 NP_417778.1          -            3.7e-74  241.2   1.1   4.2e-74  241.0   1.1   1.0   1   0   0   1   1   1   1 Ribosomal protein L4/L1 family
+Ribosomal_L3         PF00297.29 NP_417779.1          -            2.5e-16   52.3   8.3   5.6e-16   51.1   6.6   2.1   1   1   1   2   2   1   1 Ribosomal protein L3
+Ribosomal_S10        PF00338.28 NP_417780.1          -            8.6e-38  121.4   0.1   9.6e-38  121.2   0.1   1.0   1   0   0   1   1   1   1 Ribosomal protein S10p/S20e
+GTP_EFTU             PF00009.34 NP_417798.1          -            3.9e-66  214.9   0.0   5.1e-66  214.5   0.0   1.1   1   0   0   1   1   1   1 Elongation factor Tu GTP binding domain
+GTP_EFTU_D3          PF03143.24 NP_417798.1          -              1e-42  137.5   0.1   2.5e-42  136.3   0.1   1.7   1   0   0   1   1   1   1 Elongation factor Tu C-terminal domain
+GTP_EFTU_D2          PF03144.32 NP_417798.1          -            2.1e-22   72.2   7.1   2.1e-22   72.2   7.1   1.9   2   0   0   2   2   1   1 Elongation factor Tu domain 2
+GTP_EFTU             PF00009.34 NP_417799.1          -            6.6e-67  217.4   0.1   1.1e-66  216.8   0.1   1.3   1   0   0   1   1   1   1 Elongation factor Tu GTP binding domain
+EFG_IV               PF03764.25 NP_417799.1          -              1e-48  156.9   0.0   2.2e-48  155.7   0.0   1.6   1   0   0   1   1   1   1 Elongation factor G, domain IV
+EFG_C                PF00679.31 NP_417799.1          -            1.2e-31  101.4   0.1   2.9e-31  100.2   0.1   1.7   1   0   0   1   1   1   1 Elongation factor G C-terminus
+GTP_EFTU_D2          PF03144.32 NP_417799.1          -            4.3e-21   67.9   0.7   1.1e-20   66.6   0.3   2.0   2   0   0   2   2   1   1 Elongation factor Tu domain 2
+Ribosomal_S7         PF00177.28 NP_417800.1          -            1.1e-65  212.4   2.4   1.3e-65  212.2   2.4   1.0   1   0   0   1   1   1   1 Ribosomal protein S7p/S5e
+Ribosom_S12_S23      PF00164.32 NP_417801.1          -            2.2e-44  142.4   0.4   2.7e-44  142.2   0.4   1.1   1   0   0   1   1   1   1 Ribosomal protein S12/S23
+ABC_tran             PF00005.34 NP_417811.1          -            8.5e-53  171.3   7.2   4.8e-27   88.0   0.0   3.8   4   1   0   4   4   2   2 ABC transporter
+MMR_HSR1             PF01926.30 NP_417811.1          -            4.8e-10   32.3   1.1   6.1e-06   19.1   0.0   3.3   3   1   0   3   3   0   0 50S ribosome-binding GTPase
+GATase               PF00117.35 NP_417819.1          -            2.8e-65  212.2   0.0   3.1e-65  212.1   0.0   1.0   1   0   0   1   1   1   1 Glutamine amidotransferase class-I
+Pyr_redox_2          PF07992.21 NP_417824.1          -            6.7e-58  189.0   0.1   1.1e-57  188.3   0.1   1.3   1   0   0   1   1   1   1 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_417824.1          -            1.2e-20   66.6   3.4   1.7e-19   62.9   0.7   3.4   4   0   0   4   4   1   1 Pyridine nucleotide-disulphide oxidoreductase
+tRNA-synt_1b         PF00579.32 NP_417843.1          -            1.1e-90  296.5   0.0   1.3e-90  296.2   0.0   1.1   1   0   0   1   1   1   1 tRNA synthetases class I (W and Y)
+S4                   PF01479.31 NP_417859.1          -            2.3e-16   52.1   0.0   4.5e-16   51.1   0.0   1.5   1   0   0   1   1   1   1 S4 domain
+HATPase_c            PF02518.32 NP_417863.1          -            4.3e-27   87.5   0.0   8.7e-27   86.5   0.0   1.5   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+S1                   PF00575.30 NP_417866.4          -            1.2e-27   88.9   0.6   2.2e-27   88.0   0.6   1.5   1   0   0   1   1   1   1 S1 RNA binding domain
+MMR_HSR1             PF01926.30 NP_417868.1          -            1.1e-23   76.2   0.0     2e-23   75.4   0.0   1.4   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+GTP_EFTU             PF00009.34 NP_417868.1          -            2.9e-09   29.4   0.1   3.8e-07   22.5   0.1   2.7   1   1   0   1   1   0   0 Elongation factor Tu GTP binding domain
+AAA                  PF00004.36 NP_417880.1          -            5.1e-09   29.4   0.0   1.5e-08   27.8   0.0   1.8   2   0   0   2   2   1   1 ATPase family associated with various cellular activities (AAA)
+ABC_tran             PF00005.34 NP_417907.2          -            2.5e-36  118.0   0.0   4.4e-36  117.2   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_417911.4          -            3.2e-38  124.1   0.0   4.6e-38  123.6   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_417912.1          -            2.2e-36  118.2   0.0   3.5e-36  117.5   0.0   1.3   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_417920.1          -            6.1e-43  139.4   0.0   8.5e-43  139.0   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+SRP54                PF00448.29 NP_417921.1          -            4.7e-82  267.0   2.3   4.7e-82  267.0   2.3   2.0   2   0   0   2   2   1   1 SRP54-type protein, GTPase domain
+SRP54_N              PF02881.25 NP_417921.1          -            4.8e-17   54.7   0.7   4.8e-17   54.7   0.7   2.9   2   0   0   2   2   1   1 SRP54-type protein, helical bundle domain
+ABC_tran             PF00005.34 NP_417936.1          -            1.1e-28   93.3   0.0   1.5e-28   92.9   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_417937.1          -              6e-43  139.5   0.0   8.6e-43  138.9   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+Pyr_redox_2          PF07992.21 NP_417949.1          -            1.8e-11   36.6   0.0   8.6e-11   34.4   0.0   2.0   2   1   0   2   2   1   1 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox_2          PF07992.21 NP_417957.1          -            8.2e-74  241.2   2.6   8.4e-74  241.2   1.8   1.4   2   0   0   2   2   1   1 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_417957.1          -              2e-22   72.3   1.3   3.2e-22   71.6   0.0   2.0   2   0   0   2   2   1   1 Pyridine nucleotide-disulphide oxidoreductase
+ABC_tran             PF00005.34 NP_417997.1          -            9.1e-36  116.2   0.0   1.3e-35  115.7   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_417998.1          -            5.3e-32  104.0   0.0   7.6e-32  103.5   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+DALR_1               PF05746.22 NP_418016.1          -            2.8e-13   42.7   0.5   7.7e-13   41.3   0.5   1.8   1   0   0   1   1   1   1 DALR anticodon binding domain
+ABC_tran             PF00005.34 NP_418024.1          -              7e-58  187.8   0.3   1.4e-32  105.9   0.1   2.2   2   0   0   2   2   2   2 ABC transporter
+GTP_EFTU             PF00009.34 NP_418047.1          -              4e-37  120.3   0.1   1.4e-36  118.5   0.1   1.8   1   1   0   1   1   1   1 Elongation factor Tu GTP binding domain
+GTP_EFTU_D2          PF03144.32 NP_418047.1          -              2e-13   43.3   0.0   5.1e-13   42.1   0.0   1.7   1   0   0   1   1   1   1 Elongation factor Tu domain 2
+MMR_HSR1             PF01926.30 NP_418047.1          -            1.1e-07   24.7   0.0     4e-07   22.9   0.0   2.0   2   0   0   2   2   1   1 50S ribosome-binding GTPase
+Helicase_C           PF00271.38 NP_418109.1          -            3.5e-24   77.9   0.0   6.1e-21   67.5   0.0   2.4   2   0   0   2   2   1   1 Helicase conserved C-terminal domain
+tRNA_anti-codon      PF01336.32 NP_418109.1          -            4.4e-12   38.6   0.0   8.3e-12   37.7   0.0   1.5   1   0   0   1   1   1   1 OB-fold nucleic acid binding domain
+HATPase_c            PF02518.32 NP_418124.4          -            5.3e-14   45.4   0.0   9.4e-14   44.6   0.0   1.4   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+AAA                  PF00004.36 NP_418157.1          -            5.8e-09   29.2   0.0     4e-08   26.5   0.0   2.2   2   1   0   2   2   1   1 ATPase family associated with various cellular activities (AAA)
+MMR_HSR1             PF01926.30 NP_418162.1          -            5.6e-29   93.3   0.0     3e-28   90.9   0.0   2.0   2   0   0   2   2   1   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.34 NP_418181.1          -            1.2e-37  122.3   0.0   1.7e-37  121.8   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+ATP-synt_ab          PF00006.32 NP_418188.1          -            4.2e-74  241.4   0.0   6.2e-74  240.9   0.0   1.3   1   0   0   1   1   1   1 ATP synthase alpha/beta family, nucleotide-binding domain
+ATP-synt_ab_N        PF02874.30 NP_418188.1          -            1.2e-20   66.5   2.5   2.9e-20   65.3   2.5   1.7   1   0   0   1   1   1   1 ATP synthase alpha/beta family, beta-barrel domain
+ATP-synt_ab          PF00006.32 NP_418190.1          -            2.8e-83  271.4   0.1   4.6e-83  270.7   0.1   1.4   1   0   0   1   1   1   1 ATP synthase alpha/beta family, nucleotide-binding domain
+ATP-synt_ab_C        PF00306.33 NP_418190.1          -            2.7e-48  156.2   0.8   5.1e-48  155.3   0.8   1.5   1   0   0   1   1   1   1 ATP synthase alpha/beta chain, C terminal domain
+ATP-synt_ab_N        PF02874.30 NP_418190.1          -            2.3e-14   46.4   0.1   5.8e-14   45.1   0.1   1.7   1   0   0   1   1   1   1 ATP synthase alpha/beta family, beta-barrel domain
+ATP-synt_C           PF00137.27 NP_418193.1          -            2.7e-15   49.1  11.6   3.6e-15   48.7  11.6   1.2   1   0   0   1   1   1   1 ATP synthase subunit C
+ABC_tran             PF00005.34 NP_418205.1          -            3.4e-62  201.8   0.2     1e-33  109.6   0.0   2.3   2   0   0   2   2   2   2 ABC transporter
+AAA                  PF00004.36 NP_418214.2          -            1.1e-06   21.9   0.6   5.3e-06   19.6   0.2   2.4   2   1   0   2   2   0   0 ATPase family associated with various cellular activities (AAA)
+Helicase_C           PF00271.38 NP_418227.1          -            7.7e-34  109.0   0.0   7.7e-33  105.8   0.0   2.3   2   0   0   2   2   1   1 Helicase conserved C-terminal domain
+ATP-synt_ab          PF00006.32 NP_418230.1          -            4.1e-29   94.4   0.1   5.8e-29   93.9   0.1   1.2   1   0   0   1   1   1   1 ATP synthase alpha/beta family, nucleotide-binding domain
+Aminotran_5          PF00266.26 NP_418238.1          -              6e-11   34.5   0.1   7.8e-11   34.1   0.1   1.3   1   1   0   1   1   1   1 Aminotransferase class-V
+Peptidase_M24        PF00557.30 NP_418289.1          -            4.3e-46  150.0   0.2   5.3e-46  149.7   0.2   1.1   1   0   0   1   1   1   1 Metallopeptidase family M24
+MMR_HSR1             PF01926.30 NP_418301.3          -            2.6e-21   68.6   0.0     4e-21   68.0   0.0   1.3   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+HATPase_c            PF02518.32 NP_418305.1          -            1.1e-23   76.6   0.0   2.5e-23   75.4   0.0   1.7   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HATPase_c            PF02518.32 NP_418347.1          -            8.6e-29   93.0   0.0   9.7e-28   89.6   0.0   2.5   3   0   0   3   3   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+AAA                  PF00004.36 NP_418366.1          -            2.7e-19   62.6   0.1   1.7e-09   30.9   0.0   2.7   2   0   0   2   2   2   2 ATPase family associated with various cellular activities (AAA)
+Helicase_C           PF00271.38 NP_418370.1          -            2.3e-14   46.3   0.0   2.9e-09   29.9   0.0   2.7   3   0   0   3   3   1   1 Helicase conserved C-terminal domain
+AA_kinase            PF00696.34 NP_418375.1          -            9.8e-45  145.7   0.0   1.6e-44  145.1   0.0   1.3   1   0   0   1   1   1   1 Amino acid kinase family
+AA_kinase            PF00696.34 NP_418394.3          -            8.2e-46  149.3   2.7   9.2e-46  149.1   2.7   1.0   1   0   0   1   1   1   1 Amino acid kinase family
+Pyr_redox_2          PF07992.21 NP_418397.2          -              1e-65  214.7   0.0   1.3e-65  214.3   0.0   1.1   1   0   0   1   1   1   1 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.34 NP_418397.2          -            7.2e-20   64.1   1.7   3.5e-17   55.5   0.0   2.4   2   0   0   2   2   1   1 Pyridine nucleotide-disulphide oxidoreductase
+GTP_EFTU             PF00009.34 NP_418407.1          -            3.9e-66  214.9   0.0   5.1e-66  214.5   0.0   1.1   1   0   0   1   1   1   1 Elongation factor Tu GTP binding domain
+GTP_EFTU_D3          PF03143.24 NP_418407.1          -              1e-42  137.5   0.1   2.5e-42  136.3   0.1   1.7   1   0   0   1   1   1   1 Elongation factor Tu C-terminal domain
+GTP_EFTU_D2          PF03144.32 NP_418407.1          -            2.1e-22   72.2   7.1   2.1e-22   72.2   7.1   1.9   2   0   0   2   2   1   1 Elongation factor Tu domain 2
+Ribosomal_L11_N      PF03946.20 NP_418410.1          -            1.8e-32  103.7   0.3   6.7e-32  101.8   0.2   1.8   2   0   0   2   2   1   1 Ribosomal protein L11, N-terminal domain
+Ribosomal_L11        PF00298.25 NP_418410.1          -            2.6e-30   97.4   2.7   3.9e-30   96.9   2.7   1.3   1   0   0   1   1   1   1 Ribosomal protein L11, RNA binding domain
+Ribosomal_L1         PF00687.27 NP_418411.1          -            2.1e-69  225.8   1.1   2.5e-69  225.5   1.1   1.1   1   0   0   1   1   1   1 Ribosomal protein L1p/L10e family
+Ribosomal_L10        PF00466.26 NP_418412.1          -            5.5e-31   99.4   0.0   7.8e-31   98.9   0.0   1.2   1   0   0   1   1   1   1 Ribosomal protein L10
+RNA_pol_Rpb2_6       PF00562.34 NP_418414.1          -           2.5e-137  450.6   0.1  2.3e-135  444.1   0.1   2.3   2   0   0   2   2   1   1 RNA polymerase Rpb2, domain 6
+RNA_pol_Rpb2_1       PF04563.21 NP_418414.1          -            3.9e-44  143.3   0.0   5.6e-43  139.5   0.0   2.2   1   1   0   1   1   1   1 RNA polymerase beta subunit
+RNA_pol_Rpb2_3       PF04565.22 NP_418414.1          -            2.5e-32  103.6   0.0   5.4e-32  102.6   0.0   1.6   1   0   0   1   1   1   1 RNA polymerase Rpb2, domain 3
+RNA_pol_Rpb2_7       PF04560.26 NP_418414.1          -            1.2e-31  101.7   0.1   3.2e-31  100.4   0.1   1.8   1   0   0   1   1   1   1 RNA polymerase Rpb2, domain 7
+RNA_pol_Rpb1_1       PF04997.18 NP_418415.1          -            1.4e-90  296.4   0.0   2.6e-90  295.6   0.0   1.4   1   0   0   1   1   1   1 RNA polymerase Rpb1, domain 1
+RNA_pol_Rpb1_5       PF04998.23 NP_418415.1          -            1.1e-81  266.8   0.0   1.8e-81  266.1   0.0   1.3   1   0   0   1   1   1   1 RNA polymerase Rpb1, domain 5
+RNA_pol_Rpb1_2       PF00623.26 NP_418415.1          -            1.8e-40  131.6   0.1     9e-30   96.8   0.0   2.9   2   1   1   3   3   2   2 RNA polymerase Rpb1, domain 2
+RNA_pol_Rpb1_3       PF04983.24 NP_418415.1          -              8e-34  109.6   0.0   1.7e-33  108.5   0.0   1.6   1   0   0   1   1   1   1 RNA polymerase Rpb1, domain 3
+HATPase_c            PF02518.32 NP_418431.1          -            3.5e-32  103.9   1.8   5.1e-32  103.4   0.1   2.2   3   0   0   3   3   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+AAA                  PF00004.36 NP_418432.1          -              1e-06   21.9   0.0   2.3e-06   20.8   0.0   1.6   1   0   0   1   1   0   0 ATPase family associated with various cellular activities (AAA)
+S4                   PF01479.31 NP_418446.1          -            2.2e-16   52.1   2.9     4e-16   51.3   0.0   2.9   3   1   1   4   4   1   1 S4 domain
+AA_kinase            PF00696.34 NP_418448.1          -            1.1e-48  158.6   0.2   1.7e-48  158.0   0.2   1.3   1   0   0   1   1   1   1 Amino acid kinase family
+ABC_tran             PF00005.34 NP_418459.1          -              3e-37  121.0   0.0   5.5e-37  120.1   0.0   1.4   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_418482.1          -              8e-24   77.5   0.7   5.5e-08   26.2   0.0   5.0   4   1   0   4   4   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_418511.1          -            1.3e-59  193.4   0.1   7.9e-35  113.2   0.2   2.3   2   0   0   2   2   2   2 ABC transporter
+ABC_tran             PF00005.34 NP_418520.1          -              2e-34  111.8   0.0   2.5e-34  111.5   0.0   1.1   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.34 NP_418530.1          -            3.1e-40  130.7   0.1   5.3e-40  129.9   0.1   1.4   1   0   0   1   1   1   1 ABC transporter
+MMR_HSR1             PF01926.30 NP_418533.1          -            1.3e-10   34.1   0.0   4.2e-05   16.4   0.0   2.8   2   0   0   2   2   0   0 50S ribosome-binding GTPase
+HATPase_c            PF02518.32 NP_418536.1          -            1.1e-23   76.6   0.0   1.8e-23   75.9   0.0   1.4   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HATPase_c            PF02518.32 NP_418549.1          -              5e-25   80.9   0.0   1.2e-24   79.6   0.0   1.7   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+tRNA-synt_2          PF00152.26 NP_418553.1          -            3.6e-99  324.3   1.2   4.9e-99  323.9   1.2   1.2   1   0   0   1   1   1   1 tRNA synthetases class II (D, K and N)
+tRNA_anti-codon      PF01336.32 NP_418553.1          -              2e-19   62.1   0.0   3.6e-19   61.3   0.0   1.4   1   0   0   1   1   1   1 OB-fold nucleic acid binding domain
+tRNA-synt_2d         PF01409.26 NP_418553.1          -            1.3e-07   24.0   2.4   0.00017   13.8   0.2   3.2   3   1   0   3   3   0   0 tRNA synthetases class II core domain (F)
+Pyr_redox_2          PF07992.21 NP_418578.1          -            2.9e-13   42.5   0.5   5.5e-07   21.9   0.4   3.0   2   1   0   2   2   0   0 Pyridine nucleotide-disulphide oxidoreductase
+tRNA-synt_2          PF00152.26 NP_418579.2          -            4.1e-54  176.3   0.0   5.4e-54  176.0   0.0   1.1   1   0   0   1   1   1   1 tRNA synthetases class II (D, K and N)
+MMR_HSR1             PF01926.30 NP_418585.4          -            3.1e-07   23.3   0.0   7.5e-07   22.0   0.0   1.7   2   0   0   2   2   1   1 50S ribosome-binding GTPase
+HATPase_c            PF02518.32 NP_418591.1          -            1.1e-10   34.6   0.0   2.9e-10   33.3   0.0   1.7   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+MMR_HSR1             PF01926.30 NP_418594.1          -            5.4e-25   80.5   0.1   1.7e-24   78.9   0.1   1.8   2   0   0   2   2   1   1 50S ribosome-binding GTPase
+S1                   PF00575.30 NP_418600.4          -            3.6e-21   68.1   0.3   8.3e-21   66.9   0.3   1.7   1   0   0   1   1   1   1 S1 RNA binding domain
+CBS                  PF00571.34 NP_418639.1          -            7.5e-10   31.8   1.6   5.7e-06   19.4   0.1   3.5   4   0   0   4   4   1   1 CBS domain
+tRNA-synt_1          PF00133.29 NP_418679.1          -           7.3e-167  547.9   1.8  9.5e-167  547.5   1.8   1.1   1   0   0   1   1   1   1 tRNA synthetases class I (I, L, M and V)
+Anticodon_1          PF08264.20 NP_418679.1          -            1.5e-45  147.4   0.0   3.2e-45  146.3   0.0   1.6   1   0   0   1   1   1   1 Anticodon-binding domain of tRNA ligase
+tRNA-synt_1g         PF09334.18 NP_418679.1          -            4.8e-20   64.3   1.5     8e-10   30.6   0.1   5.0   4   2   0   4   4   1   1 tRNA synthetases class I (M)
+ABC_tran             PF00005.34 NP_418707.1          -            2.8e-38  124.3   0.0   4.3e-38  123.7   0.0   1.3   1   0   0   1   1   1   1 ABC transporter
+AAA                  PF00004.36 NP_418766.4          -            1.6e-08   27.8   0.0   3.4e-08   26.7   0.0   1.6   1   0   0   1   1   1   1 ATPase family associated with various cellular activities (AAA)
+Helicase_C           PF00271.38 NP_418770.2          -              3e-12   39.5   1.4     5e-12   38.8   0.1   2.1   2   0   0   2   2   1   1 Helicase conserved C-terminal domain
+AAA                  PF00004.36 NP_418781.1          -            8.8e-09   28.6   0.1   1.4e-08   27.9   0.1   1.4   1   0   0   1   1   1   1 ATPase family associated with various cellular activities (AAA)
+GTP_EFTU             PF00009.34 NP_418792.1          -              9e-51  164.8   0.0   1.5e-50  164.1   0.0   1.4   1   0   0   1   1   1   1 Elongation factor Tu GTP binding domain
+GTP_EFTU_D2          PF03144.32 NP_418792.1          -            4.2e-16   51.9   0.1   1.2e-15   50.5   0.1   1.8   1   0   0   1   1   1   1 Elongation factor Tu domain 2
+MMR_HSR1             PF01926.30 NP_418792.1          -            1.3e-07   24.5   0.0     4e-07   22.9   0.0   1.9   1   1   0   1   1   1   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.34 NP_418808.1          -            1.8e-61  199.4   0.0   7.1e-32  103.6   0.0   3.1   3   1   0   3   3   2   2 ABC transporter
+MMR_HSR1             PF01926.30 NP_418808.1          -            1.4e-07   24.3   0.1   0.00043   13.1   0.0   2.5   2   0   0   2   2   0   0 50S ribosome-binding GTPase
+HATPase_c            PF02518.32 NP_418816.1          -            9.5e-25   80.0   0.0   1.8e-24   79.1   0.0   1.5   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+AAA                  PF00004.36 YP_009518751.1       -            3.2e-14   46.2   0.1   1.9e-13   43.8   0.0   2.1   2   0   0   2   2   1   1 ATPase family associated with various cellular activities (AAA)
+AAA                  PF00004.36 YP_010051194.1       -            2.1e-29   95.3   0.1   1.5e-15   50.5   0.0   3.0   3   0   0   3   3   2   2 ATPase family associated with various cellular activities (AAA)
+AAA                  PF00004.36 YP_010051217.1       -            6.1e-09   29.1   0.0   1.3e-08   28.1   0.0   1.5   1   0   0   1   1   1   1 ATPase family associated with various cellular activities (AAA)
+HATPase_c            PF02518.32 YP_010283911.1       -            6.5e-21   67.6   0.6   2.5e-20   65.7   0.2   2.1   2   0   0   2   2   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+IF-2                 PF11987.14 YP_010283915.1       -              1e-45  147.2   3.5   3.3e-45  145.5   3.5   2.0   1   0   0   1   1   1   1 Translation-initiation factor 2
+GTP_EFTU             PF00009.34 YP_010283915.1       -            8.8e-42  135.5   1.3   6.5e-40  129.4   1.3   2.8   1   1   0   1   1   1   1 Elongation factor Tu GTP binding domain
+GTP_EFTU_D2          PF03144.32 YP_010283915.1       -            5.3e-15   48.4   9.2   3.3e-12   39.5   1.3   3.9   2   1   1   3   3   1   1 Elongation factor Tu domain 2
+MMR_HSR1             PF01926.30 YP_010283915.1       -            3.1e-13   42.6   0.1   9.5e-13   41.0   0.1   1.9   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+IF-2                 PF11987.14 YP_010283916.1       -              1e-45  147.1   3.5   3.3e-45  145.5   3.5   1.9   1   0   0   1   1   1   1 Translation-initiation factor 2
+GTP_EFTU             PF00009.34 YP_010283916.1       -            9.2e-42  135.4   1.3   6.4e-40  129.4   1.3   2.7   1   1   0   1   1   1   1 Elongation factor Tu GTP binding domain
+GTP_EFTU_D2          PF03144.32 YP_010283916.1       -            5.3e-15   48.4   9.3   3.2e-12   39.5   1.3   3.9   2   1   0   3   3   1   1 Elongation factor Tu domain 2
+MMR_HSR1             PF01926.30 YP_010283916.1       -            3.1e-13   42.6   0.1   9.4e-13   41.0   0.1   1.9   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.34 YP_025300.1          -            3.7e-32  104.5   0.0     5e-32  104.1   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+Aminotran_5          PF00266.26 YP_026169.1          -            3.5e-92  301.8   0.0   4.1e-92  301.6   0.0   1.0   1   0   0   1   1   1   1 Aminotransferase class-V
+CBS                  PF00571.34 YP_026171.3          -            4.1e-11   35.8   0.4   1.2e-08   28.0   0.0   3.4   2   1   1   3   3   1   1 CBS domain
+MMR_HSR1             PF01926.30 YP_026173.1          -            4.2e-18   58.3   0.0   6.6e-18   57.6   0.0   1.3   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+HATPase_c            PF02518.32 YP_026207.1          -            1.8e-34  111.3   0.1   4.5e-34  110.0   0.1   1.7   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+ABC_tran             PF00005.34 YP_026225.1          -            1.3e-62  203.1   0.0   3.4e-32  104.6   0.0   2.4   2   0   0   2   2   2   2 ABC transporter
+Toprim               PF01751.29 YP_026241.1          -            1.6e-21   69.0   0.0   4.7e-21   67.6   0.0   1.9   1   0   0   1   1   1   1 Toprim domain
+HATPase_c            PF02518.32 YP_026241.1          -            2.6e-20   65.7   0.2     6e-20   64.5   0.2   1.7   1   0   0   1   1   1   1 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+Helicase_C           PF00271.38 YP_026263.3          -            3.2e-30   97.4   0.0     1e-25   82.9   0.0   3.2   3   0   0   3   3   1   1 Helicase conserved C-terminal domain
+TatD_DNase           PF01026.28 YP_026271.1          -            4.4e-77  251.5   0.0     5e-77  251.3   0.0   1.0   1   0   0   1   1   1   1 TatD related DNase
+GTP_EFTU             PF00009.34 YP_026274.1          -            1.1e-62  203.6   0.1   1.9e-62  202.9   0.1   1.4   1   0   0   1   1   1   1 Elongation factor Tu GTP binding domain
+EFG_C                PF00679.31 YP_026274.1          -            2.7e-25   81.0   0.0   5.9e-25   79.9   0.0   1.6   1   0   0   1   1   1   1 Elongation factor G C-terminus
+GTP_EFTU_D2          PF03144.32 YP_026274.1          -            4.6e-14   45.4   3.7   1.3e-13   43.9   3.7   1.9   1   0   0   1   1   1   1 Elongation factor Tu domain 2
+MMR_HSR1             PF01926.30 YP_026274.1          -            7.8e-09   28.4   0.2     8e-08   25.2   0.0   2.6   2   1   0   2   2   1   1 50S ribosome-binding GTPase
+ABC_tran             PF00005.34 YP_026282.1          -            1.8e-37  121.7   0.0   2.3e-37  121.3   0.0   1.2   1   0   0   1   1   1   1 ABC transporter
+ABC_tran             PF00005.34 YP_026286.1          -            2.3e-59  192.6   0.0   3.1e-37  121.0   0.0   2.2   2   0   0   2   2   2   2 ABC transporter
+TatD_DNase           PF01026.28 YP_026291.2          -            1.9e-78  256.0   0.0   2.2e-78  255.8   0.0   1.0   1   0   0   1   1   1   1 TatD related DNase
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      protein.faa
+# Target file:     Essential102_extracted.hmm
+# Option settings: hmmscan --tblout essential102_hmmscan_tblout.txt --cut_ga --cpu 4 Essential102_extracted.hmm protein.faa 
+# Current dir:     /Users/akhimomtaz/Documents/e.coli k-12/102_essential
+# Date:            Wed Apr 15 14:06:46 2026
+# [ok]

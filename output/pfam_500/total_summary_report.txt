@@ -1,0 +1,25 @@
+Pfam 500 hmmscan Summary Report
+================================
+Total proteins in FASTA: 4300
+Pfam IDs requested from subset file: 500
+Pfam IDs successfully extracted from Pfam-A.hmm: 500
+Proteins with at least one Pfam match: 1415
+Proteins without any Pfam match: 2885
+Total unique protein-Pfam pairs: 2089
+Unique Pfam domains matched: 500
+Proteins matching exactly one Pfam: 953
+Proteins matching multiple Pfams: 462
+Pfam domains matching exactly one protein: 219
+Pfam domains matching multiple proteins: 281
+
+Files generated:
+- pfam_full_results.csv
+- proteins_single_pfam.csv
+- proteins_multiple_pfams.csv
+- pfams_multiple_proteins.csv
+- pfams_single_protein.csv
+- proteins_no_pfam_match.csv
+- total_summary_report.txt
+- Pfam500_extracted.hmm
+- hmmscan_tblout.txt
+- hmmscan_alignments.txt

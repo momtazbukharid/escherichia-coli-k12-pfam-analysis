@@ -1,0 +1,29 @@
+122 FastAAI Pfam hmmscan Summary Report
+=======================================
+Total proteins in FASTA: 4300
+FastAAI Pfam IDs requested from subset file: 123
+FastAAI Pfam IDs successfully extracted from Pfam-A.hmm: 122
+FastAAI Pfam IDs missing from Pfam-A.hmm: 1
+Proteins with at least one Pfam match: 83
+Proteins without any Pfam match: 4217
+Total unique protein-Pfam pairs: 83
+Unique Pfam domains matched: 80
+Proteins matching exactly one Pfam: 83
+Proteins matching multiple Pfams: 0
+Pfam domains matching exactly one protein: 78
+Pfam domains matching multiple proteins: 2
+
+Missing requested Pfams from Pfam-A.hmm:
+PF0054
+
+Files generated:
+- fastaai122_pfam_full_results.csv
+- fastaai122_proteins_single_pfam.csv
+- fastaai122_proteins_multiple_pfams.csv
+- fastaai122_pfams_multiple_proteins.csv
+- fastaai122_pfams_single_protein.csv
+- fastaai122_proteins_no_pfam_match.csv
+- fastaai122_summary_report.txt
+- FastAAI122_extracted.hmm
+- fastaai122_hmmscan_tblout.txt
+- fastaai122_hmmscan_alignments.txt

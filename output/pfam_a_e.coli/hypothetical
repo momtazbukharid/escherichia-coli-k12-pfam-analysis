@@ -1,0 +1,90 @@
+import re
+import pandas as pd
+
+# =========================
+# INPUT
+# =========================
+FASTA_FILE = "protein.faa"
+
+# =========================
+# OUTPUT FILES
+# =========================
+HYPOTHETICAL_LIST_FILE = "all_hypothetical_proteins.csv"
+HYPOTHETICAL_SUMMARY_FILE = "hypothetical_protein_summary.txt"
+
+# =========================
+# PATTERNS FOR HYPOTHETICAL / UNKNOWN
+# =========================
+HYPOTHETICAL_PATTERNS = [
+    r"hypothetical protein",
+    r"uncharacterized protein",
+    r"unknown protein",
+    r"putative uncharacterized protein"
+]
+
+# combine into one regex
+combined_pattern = re.compile("|".join(HYPOTHETICAL_PATTERNS), flags=re.IGNORECASE)
+
+# =========================
+# PARSE FASTA HEADERS
+# =========================
+records = []
+
+with open(FASTA_FILE, "r", encoding="utf-8") as f:
+    for line in f:
+        if line.startswith(">"):
+            header = line[1:].strip()
+            protein_id = header.split()[0]
+
+            is_hypothetical = bool(combined_pattern.search(header))
+
+            records.append({
+                "protein": protein_id,
+                "header": header,
+                "is_hypothetical": is_hypothetical
+            })
+
+df = pd.DataFrame(records)
+
+# =========================
+# FILTER HYPOTHETICAL PROTEINS
+# =========================
+hyp_df = df[df["is_hypothetical"]].copy()
+
+# =========================
+# SAVE FULL LIST
+# =========================
+hyp_df.to_csv(HYPOTHETICAL_LIST_FILE, index=False)
+
+# =========================
+# SUMMARY
+# =========================
+total_proteins = len(df)
+total_hypothetical = len(hyp_df)
+total_non_hypothetical = total_proteins - total_hypothetical
+
+summary = f"""
+HYPOTHETICAL PROTEIN SUMMARY
+============================
+
+Input FASTA:
+- {FASTA_FILE}
+
+Total proteins in FASTA:
+- {total_proteins}
+
+Hypothetical / uncharacterized proteins:
+- {total_hypothetical}
+
+Non-hypothetical proteins:
+- {total_non_hypothetical}
+
+Files generated:
+- {HYPOTHETICAL_LIST_FILE}
+- {HYPOTHETICAL_SUMMARY_FILE}
+"""
+
+with open(HYPOTHETICAL_SUMMARY_FILE, "w", encoding="utf-8") as f:
+    f.write(summary)
+
+print(summary)
